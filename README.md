@@ -7,8 +7,8 @@ This app uses famous framework and also has an auto-layout so it means it fits f
 Frameworks I used for this :: Cocoa Pods
 Alamofire, SwiftyJSON, NVActivityIndicatorView
 
-ALAMOFIRE: https://cocoapods.org/pods/Alamofire
-SWIFTYJSON: https://cocoapods.org/pods/SwiftyJSON
+ALAMOFIRE: https://cocoapods.org/pods/Alamofire <br/>
+SWIFTYJSON: https://cocoapods.org/pods/SwiftyJSON <br/>
 NVActivityIndicatorView: https://cocoapods.org/pods/NVActivityIndicatorView
 
 For "catching" weather I used "OpenWeatherMap" api for daily/current weather data:
