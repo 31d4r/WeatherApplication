@@ -14,4 +14,7 @@ NVActivityIndicatorView: https://cocoapods.org/pods/NVActivityIndicatorView
 For "catching" weather I used "OpenWeatherMap" api for daily/current weather data:
 URL: https://openweathermap.org/current
 
+Applicaion is also using current user geolocation, so it means after you open an app you need to give a permission to app to return you current weather data for your city.
+
+<img src="https://i.imgur.com/iVVVy8u.png">
 
